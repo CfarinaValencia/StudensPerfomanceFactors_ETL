@@ -1,0 +1,6 @@
+# Ignorar entornos virtuales
+venvProyecto/
+
+
+# Ignorar archivos de configuración
+config.yaml
